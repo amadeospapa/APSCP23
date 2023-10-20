@@ -1,0 +1,8 @@
+main{
+  display: flex;
+  flex-align: column;
+}
+
+.pWindow{
+  height: 100vh
+}

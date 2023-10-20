@@ -3,7 +3,7 @@
 // import '@picocss/pico'
 
 // Our stylesheet.
-import './CSS/style.css'
+import './style.css'
 
 //Retro CSS framework
 import '98.css/dist/98.css'
