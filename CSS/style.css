@@ -6,3 +6,22 @@ main{
 .pWindow{
   height: 100vh
 }
+
+.pWindow{
+    width: 200px;
+    top: 0;
+    bottom: 0;
+    padding: 8px;
+    display: flex;
+    align-items: stretch;
+  position: fixed;
+  }
+
+.pWindow .tree-view{
+  overflow-y: scroll;
+}
+
+.hWindow{
+  margin-left: 240px;
+  margin-bottom: 60px;
+}

@@ -5,7 +5,7 @@
 // Our stylesheet.
 import './CSS/style.css'
 
-//Retro CSS framework
+//Retro CSS library
 import '98.css/dist/98.css'
 import '98.css/dist/docs.css'
 
