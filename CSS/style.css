@@ -25,3 +25,11 @@ main{
   margin-left: 240px;
   margin-bottom: 60px;
 }
+
+.window{
+  display: block;
+}
+
+.window.hidden{
+  display: none;
+}

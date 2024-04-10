@@ -26,3 +26,12 @@ import 'highlight.js/styles/panda-syntax-dark.css'
 hljs.highlightAll();
 
 // This is a pretty good start for JavaScript: we will add more as needed!
+
+// Button to show/hide windows
+
+const xOutWindow = (windowId) => {
+    var windowDiv = document.getElementById(windowId);
+    if (windowDiv) {
+        windowDiv.classList.toggle('hidden');
+    }
+}
